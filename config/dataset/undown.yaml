@@ -1,0 +1,7 @@
+train: /home/neuedu/桌面/datasets/Fall_data/train.txt  # train images (relative to 'path') 118287 images
+val: /home/neuedu/桌面/datasets/Fall_data/val.txt  # train images (relative to 'path') 5000 images
+#test: test-dev2017.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 3  # number of classes
+names: ["up", "bending","down"]   # class names
