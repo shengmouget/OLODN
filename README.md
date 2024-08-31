@@ -13,7 +13,9 @@ conda create -n name python=3.8
 pip install -r requirements.txt
 ~~~
 
-Please run the `train.py` file to introduce the yaml path, and the dataset path.
+Please run the `train.py` file to introduce the yaml path, and the dataset path.But the train file has to be modified according to the algorithm configuration to change the configuration path as well as the dataset path.
 
-Please contact the author for the dataset way.
+Algorithm Profiles：``OLODN.yaml``,**Be sure to run the code with this project or there will be bugs!**
+
+Please contact the author for the dataset way。swshengwei@foxmail.com
 
